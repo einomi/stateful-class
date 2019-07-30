@@ -1,0 +1,19 @@
+{
+  "name": "stateful-class",
+  "version": "1.0.0",
+  "description": "A simple stateful class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/einomi/stateful-class.git"
+  },
+  "author": "einomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/einomi/stateful-class/issues"
+  },
+  "homepage": "https://github.com/einomi/stateful-class#readme"
+}
