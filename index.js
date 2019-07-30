@@ -1,4 +1,4 @@
-export function Stateful(props) {
+function Stateful(props) {
   this.props = props;
   this.onInit();
   if (typeof module !== 'undefined' &&  module.hot) {
@@ -19,4 +19,4 @@ Stateful.prototype.setState = function(stateToMerge) {
   this.onStateUpdate(prevState);
 };
 
-export default Stateful
+module.exports = Stateful
