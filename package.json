@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/einomi/stateful-class.git"
   },
-  "author": "einomi",
+  "author": "NPM Andrew Nikonov <a.einomi@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/einomi/stateful-class/issues"
